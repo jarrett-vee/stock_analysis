@@ -18,3 +18,5 @@ This is a Python-based web application for analyzing and visualizing stock data.
 
    ```bash
    git clone https://github.com/jarrett-vee/stock-data-analysis-dashboard.git
+
+2.  I kept in the individual scripts as personal preference but you can simply run main.py followed by app.py - the individual scripts are not needed.
